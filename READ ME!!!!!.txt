@@ -1,0 +1,6 @@
+TO OPEN THE MAIN WEBSITE 
+USE THE LINK BELOW ----------------------------
+http://localhost/GoCheeta/ 
+
+TO ACCESS THE ADMIN PAGE USE-------------------------- 
+http://localhost/GoCheeta/admin
